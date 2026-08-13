@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/t-devendra/leetcode-dsa-solution-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/t-devendra/leetcode-dsa-solution-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/t-devendra/leetcode-dsa-solution-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
